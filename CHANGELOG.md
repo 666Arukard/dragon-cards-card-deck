@@ -1,5 +1,11 @@
 # Versionshinweise
 
+## 1.0.1 — 22. Oktober 2026
+
+- Fehlenden Manifest-Eintrag `compatibility.verified: "14.369"` ergänzt.
+- Grundlage: Daniel Brunes bestätigter Test von Import, Kartenanzahl und Ziehen.
+- Separate Spielerhand-Prüfung weiterhin offen; Karten, Grafiken und Funktionen unverändert.
+
 ## 1.0.0 — 22. Oktober 2026
 
 - Erste öffentliche Veröffentlichung über das eigenständige GitHub-Repository.

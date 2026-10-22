@@ -30,7 +30,7 @@ export function webpSize(file) {
 export function validate() {
  const manifest=read('module.json'),catalog=read('data/catalog.json'),inventory=read('data/source-inventory.json');
  const id=manifest.id;
- assert.equal(id,'dragon-cards-card-deck');assert.equal(manifest.compatibility.minimum,'14');assert(!('verified' in manifest.compatibility));
+ assert.equal(id,'dragon-cards-card-deck');assert.equal(manifest.compatibility.minimum,'14');assert.equal(manifest.compatibility.verified,'14.369');
  assert(!manifest.relationships?.requires?.length);assert.equal(manifest.packs.length,1);assert.equal(manifest.packs[0].type,'Cards');
  assert(fs.existsSync(path.join(root,manifest.packs[0].path,'CURRENT')));
  assert.equal(catalog.cards.length,59);assert.equal(catalog.variants.length,3);
@@ -72,7 +72,7 @@ export function validate() {
  }
  assert.equal(frontCount,177);assert.equal(distinctBacks.size,3);assert.equal(inventory.uniqueBacks,3);
  for(const file of ['README.md','CHANGELOG.md','LICENSE.md','LICENSE-CODE.md','LICENSE-ARTWORK.md','docs/METADATA.md','docs/TESTS.md','docs/SOURCES.md','data/catalog.schema.json'])assert(fs.statSync(path.join(root,file)).isFile());
- return {checkedOn:'2026-10-22',targetFoundry:'14',referenceApi:'14.368',verifiedFoundry:null,variantCount:3,cardsPerVariant:59,regularPerVariant:52,suitedJokersPerVariant:4,independentJokersPerVariant:3,frontFiles:177,distinctBackFiles:3,stableLogicalAndEmbeddedIds:true,relativePathsAndImageDimensions:true,sourceAssetHashesUnchanged:true,sourceAssetsReadOnly:true,nativeRuntimeTests:{import:'not executed by agent',shuffle:'not executed by agent',deal:'not executed by agent',draw:'not executed by agent',recall:'not executed by agent',playerHands:'not executed by agent'},userEvidence:'docs/user-test-evidence.json'};
+ return {checkedOn:'2026-10-22',targetFoundry:'14',referenceApi:'14.368',verifiedFoundry:manifest.compatibility.verified,verificationBasis:'Daniel Brune user test; see docs/user-test-evidence.json',variantCount:3,cardsPerVariant:59,regularPerVariant:52,suitedJokersPerVariant:4,independentJokersPerVariant:3,frontFiles:177,distinctBackFiles:3,stableLogicalAndEmbeddedIds:true,relativePathsAndImageDimensions:true,sourceAssetHashesUnchanged:true,sourceAssetsReadOnly:true,nativeRuntimeTests:{import:'not executed by agent',shuffle:'not executed by agent',deal:'not executed by agent',draw:'not executed by agent',recall:'not executed by agent',playerHands:'not executed by agent'},userEvidence:'docs/user-test-evidence.json'};
 }
 if(process.argv[1] && pathToFileURL(path.resolve(process.argv[1])).href===import.meta.url) {
  const report=validate();fs.writeFileSync(path.join(root,'docs/validation-report.json'),JSON.stringify(report,null,2)+'\n');console.log(JSON.stringify(report,null,2));
