@@ -3,7 +3,7 @@
   "id": "dracima-dragon-cards",
   "name": "Dracima-Drachenkarten",
   "moduleId": "dragon-cards-card-deck",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Daniel Brune",
   "assetBase": "module-root",
   "aiGenerated": true,

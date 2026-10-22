@@ -11,6 +11,6 @@ const schema=JSON.parse(fs.readFileSync(path.join(root,'data/catalog.schema.json
 const catalog=JSON.parse(fs.readFileSync(path.join(root,'data/catalog.json'),'utf8'));
 const validate=ajv.compile(schema);
 if(!validate(catalog))throw Error(JSON.stringify(validate.errors,null,2));
-const report={checkedOn:'2026-10-21',draft:'2020-12',validator:'Ajv 8.17.1',schemaValid:true,catalogValid:true};
+const report={checkedOn:'2026-10-22',draft:'2020-12',validator:'Ajv 8.17.1',schemaValid:true,catalogValid:true};
 fs.writeFileSync(path.join(root,'docs/schema-validation-report.json'),JSON.stringify(report,null,2)+'\n');
 console.log(JSON.stringify(report,null,2));

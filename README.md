@@ -1,6 +1,6 @@
 # Dragon Cards - Card Deck
 
-Version 0.1.0 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung) · Zielplattform: Foundry VTT V14.
+Version 1.0.0 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung) · Zielplattform: Foundry VTT V14.
 
 Eigenständiges, optionales Inhaltsmodul für das Dracima-Drachenkartenset.
 Ein natives Kartenkompendium enthält drei Decks: realistische Fantasy,
@@ -9,6 +9,16 @@ mittelalterliche Buchmalerei und stilisierte Illustration. Jedes Deck hat
 Keine Kartenspielregeln, keine verpflichtenden Abhängigkeiten, keine TavernGames-Integration.
 
 ## Installation
+
+In Foundrys Einrichtung unter **Zusatzmodule → Modul installieren** diese Manifest-URL eintragen:
+
+`https://github.com/666Arukard/dragon-cards-card-deck/releases/latest/download/module.json`
+
+Anschließend das Modul in der gewünschten Welt aktivieren und die Decks aus dem
+Kompendium importieren. Spätere Veröffentlichungen werden über diese stabile
+Manifest-Adresse für Foundrys Updateprüfung bereitgestellt.
+
+Alternativ manuell installieren:
 
 1. Foundry beenden. ZIP entpacken und den enthaltenen Ordner
    `dragon-cards-card-deck` nach `{Foundry-Benutzerdaten}/Data/modules/` kopieren.
@@ -20,8 +30,7 @@ Keine Kartenspielregeln, keine verpflichtenden Abhängigkeiten, keine TavernGame
    Variante auswählen und per „Importieren“ oder Drag-and-drop in die
    Kartenverwaltung übernehmen. Ein importiertes Deck enthält 59 Karten.
 
-Keine URL-Installation: Dieses lokale Paket wurde nicht veröffentlicht und enthält
-keine erfundenen Manifest- oder Download-URLs. Es beansprucht keine Aufnahme oder
+Die Veröffentlichung erfolgt über GitHub. Sie beansprucht keine Aufnahme oder
 Freigabe im offiziellen Foundry-Paketverzeichnis.
 
 ## Verwendung
@@ -100,9 +109,9 @@ Die Originalgrafiken werden beim Build nicht neu generiert oder konvertiert.
 
 [Versionshinweise](CHANGELOG.md) · [Offizielle Referenzen](docs/SOURCES.md)
 
-## Repository-Vorbereitung
+## Veröffentlichung
 
-[GitHub-Einrichtung und aktueller Prüfstand](docs/GITHUB-SETUP.md). Version 1.0.0 bleibt bis zur Einrichtung der Updateadressen zurückgestellt.
+[Repository und Release-Adressen](docs/GITHUB-SETUP.md). Keine zusätzliche `website.json`; Inhalte für die eigene Website werden manuell gepflegt.
 
 
 ### Vom Nutzer bestätigter Praxistest

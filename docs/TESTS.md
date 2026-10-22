@@ -2,10 +2,14 @@
 
 ## Ehrlicher Prüfstand
 
-Ziel ist Foundry V14. Keine laufende Foundry-Installation oder Testwelt wurde für
-diese Auslieferung verwendet. Keine konkrete Foundry-Version wird als verifiziert
-angegeben. Die native Darstellung und sämtliche echten Spiel- und Spieleraktionen
-sind deshalb ausdrücklich **noch nicht in Foundry getestet**.
+Ziel ist Foundry V14. Daniel Brune hat auf **Foundry 14 Build 369** alle drei
+Decks importiert, jeweils **59 Karten insgesamt und 59 verfügbar** bestätigt
+und das Ziehen erfolgreich getestet. Weitere Kartenaktionen wurden ohne
+Einzelprotokoll als funktionierend gemeldet. Siehe [Nutzerbericht](user-test-evidence.json).
+
+ChatGPT/Codex hat keinen eigenen Foundry-Live-Test ausgeführt. Mischen, Austeilen,
+Zurücksetzen und Spielerhand-Berechtigungen sind nicht einzeln abgenommen.
+Eine vollständige Verifizierung wird daher nicht im Manifest eingetragen.
 
 Maschinenlesbare Ergebnisse: [validation-report.json](validation-report.json),
 [pack-roundtrip-report.json](pack-roundtrip-report.json) und
@@ -38,15 +42,15 @@ notieren. Für die erste Abnahme nur dieses Modul aktivieren.
 
 | Prüfung | Erwartung | Auslieferungsstatus |
 |---|---|---|
-| Aktivieren | Kompendium erscheint, vorhandene Weltdecks bleiben unverändert | Nicht ausgeführt |
-| Import | Gewähltes Deck wird als Weltkopie mit 59 verfügbaren Karten angelegt | Nicht ausgeführt |
-| Bilder | Bildkarten, Zahlen, Joker und jeweils passende Dracima-Rückseite anzeigen | Nicht ausgeführt |
-| Mischen | 59 Karten bleiben erhalten; Sortierung wird neu gesetzt | Nicht ausgeführt |
-| Austeilen | Zwei Karten an zwei Hände ergeben vier gezogene und 55 verfügbare Karten | Nicht ausgeführt |
-| Ziehen | Eine Hand zieht eine weitere Karte; 54 verbleiben verfügbar | Nicht ausgeführt |
-| Zurücksetzen | Karten aus Händen/Ablagen kehren zum Ursprungsdeck zurück; 59 verfügbar | Nicht ausgeführt |
-| Zweiter Import | Neue Kopie erzeugen; vorheriges Deck und Hände unverändert | Nicht ausgeführt |
-| Spielerhände | Eigene Hand bedienbar, fremde private Hand gesperrt, keine Rechteerhöhung | Nicht ausgeführt |
+| Aktivieren | Kompendium erscheint, vorhandene Weltdecks bleiben unverändert | Nicht einzeln protokolliert |
+| Import | Gewähltes Deck wird als Weltkopie mit 59 verfügbaren Karten angelegt | Vom Nutzer für alle drei Decks bestätigt (14.369) |
+| Bilder | Bildkarten, Zahlen, Joker und jeweils passende Dracima-Rückseite anzeigen | Nicht einzeln bestätigt |
+| Mischen | 59 Karten bleiben erhalten; Sortierung wird neu gesetzt | Nicht einzeln bestätigt |
+| Austeilen | Zwei Karten an zwei Hände ergeben vier gezogene und 55 verfügbare Karten | Nicht einzeln bestätigt |
+| Ziehen | Ziehen einer Karte aus dem Deck | Funktion vom Nutzer bestätigt (14.369); diese exakte Abfolge nicht protokolliert |
+| Zurücksetzen | Karten aus Händen/Ablagen kehren zum Ursprungsdeck zurück; 59 verfügbar | Nicht einzeln bestätigt |
+| Zweiter Import | Neue Kopie erzeugen; vorheriges Deck und Hände unverändert | Nicht einzeln bestätigt |
+| Spielerhände | Eigene Hand bedienbar, fremde private Hand gesperrt, keine Rechteerhöhung | Nicht einzeln bestätigt |
 
 ## Optionaler GM-Smoke-Test
 

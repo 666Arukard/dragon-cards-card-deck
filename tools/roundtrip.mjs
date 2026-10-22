@@ -28,7 +28,7 @@ for(const v of variants) {
  const doc=actual.find(d=>d._id===expected._id);assert(doc);assert.equal(doc.cards.length,59);
  assert.deepEqual(canonical(doc),canonical(expected));embedded+=doc.cards.length;
 }
-const report={checkedOn:'2026-10-21',tool:'@foundryvtt/foundryvtt-cli',toolVersion:'3.0.5',format:'LevelDB',deckDocuments:actual.length,embeddedCards:embedded,roundTripMatches:true,emptyCliChildCollectionsIgnored:true,foundryRuntimeTest:false};
+const report={checkedOn:'2026-10-22',tool:'@foundryvtt/foundryvtt-cli',toolVersion:'3.0.5',format:'LevelDB',deckDocuments:actual.length,embeddedCards:embedded,roundTripMatches:true,emptyCliChildCollectionsIgnored:true,foundryRuntimeTest:false};
 fs.writeFileSync(path.join(root,'docs/pack-roundtrip-report.json'),JSON.stringify(report,null,2)+'\n');
 console.log(JSON.stringify(report,null,2));
 // Only remove files created by this run, never recursively delete a computed path.
