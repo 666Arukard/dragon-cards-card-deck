@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:dracima-dragon-cards:catalog:1",
+  "title": "Dracima Dragon Cards Catalog v1",
+  "type": "object",
+  "required": ["schemaVersion", "id", "name", "moduleId", "version", "author", "assetBase", "aiGenerated", "rights", "suits", "cards", "variants"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "id": {"const": "dracima-dragon-cards"},
+    "name": {"type": "string"},
+    "moduleId": {"const": "dragon-cards-card-deck"},
+    "version": {"type": "string"},
+    "author": {"const": "Daniel Brune"},
+    "assetBase": {"const": "module-root"},
+    "aiGenerated": {"const": true},
+    "rights": {"type": "object", "required": ["code", "artwork", "commercialUse", "attribution"], "properties": {"code": {"type": "string"}, "artwork": {"type": "string"}, "commercialUse": {"const": false}, "attribution": {"const": "Daniel Brune"}}, "additionalProperties": false},
+    "suits": {"type": "array", "minItems": 4, "maxItems": 4, "items": {"type": "object", "required": ["id", "name", "standardName"], "properties": {"id": {"enum": ["hearts", "clubs", "spades", "diamonds"]}, "name": {"type": "string"}, "standardName": {"type": "string"}}, "additionalProperties": false}},
+    "cards": {"type": "array", "minItems": 59, "maxItems": 59, "uniqueItems": true, "items": {"$ref": "#/$defs/card"}},
+    "variants": {"type": "array", "minItems": 3, "maxItems": 3, "items": {"$ref": "#/$defs/variant"}}
+  },
+  "$defs": {
+    "asset": {"type": "string", "pattern": "^assets/(fronts|backs)/[A-Za-z0-9_./-]+\\.webp$"},
+    "card": {
+      "type": "object",
+      "required": ["id", "standardSuit", "standardRank", "suitName", "standardSuitName", "standardRankName", "dragonRankName", "displayName", "jokerKind", "jokerVariant", "rankSort"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {"type": "string", "pattern": "^((hearts|clubs|spades|diamonds)-(0[2-9]|10|jack|queen|king|ace|joker)|joker-independent-0[1-3])$"},
+        "standardSuit": {"enum": ["hearts", "clubs", "spades", "diamonds", null]},
+        "standardRank": {"enum": ["2", "3", "4", "5", "6", "7", "8", "9", "10", "jack", "queen", "king", "ace", "joker"]},
+        "suitName": {"type": ["string", "null"]},
+        "standardSuitName": {"type": ["string", "null"]},
+        "standardRankName": {"type": "string"},
+        "dragonRankName": {"type": ["string", "null"]},
+        "displayName": {"type": "string", "minLength": 1},
+        "jokerKind": {"enum": ["suited", "independent", null]},
+        "jokerVariant": {"enum": ["Licht", "Schatten", "Kosmos", null]},
+        "rankSort": {"type": "integer", "minimum": 2, "maximum": 15}
+      }
+    },
+    "variant": {
+      "type": "object",
+      "required": ["id", "name", "cardCount", "back", "fronts", "extensions"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {"enum": ["realistic", "illuminated", "stylized"]},
+        "name": {"type": "string"},
+        "cardCount": {"const": 59},
+        "back": {"$ref": "#/$defs/asset"},
+        "fronts": {"type": "object", "minProperties": 59, "maxProperties": 59, "additionalProperties": {"$ref": "#/$defs/asset"}},
+        "extensions": {
+          "type": "object", "required": ["dragon-cards-card-deck"], "additionalProperties": false,
+          "properties": {"dragon-cards-card-deck": {"type": "object", "required": ["documentId", "compendium", "uuid"], "properties": {"documentId": {"type": "string", "pattern": "^[A-Za-z0-9]{16}$"}, "compendium": {"const": "dragon-cards-card-deck.dragon-decks"}, "uuid": {"type": "string"}}, "additionalProperties": false}}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "dragon-cards-card-deck",
+  "title": "Dragon Cards - Card Deck",
+  "description": "Eigenständiges Dracima-Drachenkartenset mit drei nativen Decks zu je 59 Karten. Keine Spielregeln. Import, Kartenanzahl und Ziehen auf Foundry V14 Build 369 vom Nutzer bestätigt; gesonderter Spielerhand-Test noch offen.",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Daniel Brune",
+      "url": "https://dnd.brunecoaching.de"
+    },
+    {
+      "name": "ChatGPT/Codex (KI-Unterstützung)"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "maximum": "14"
+  },
+  "esmodules": [
+    "scripts/module.mjs"
+  ],
+  "packs": [
+    {
+      "name": "dragon-decks",
+      "label": "Dragon Cards · Drei Drachenkartendecks",
+      "path": "packs/dragon-decks",
+      "type": "Cards"
+    }
+  ],
+  "readme": "README.md",
+  "license": "LICENSE.md",
+  "media": [],
+  "flags": {
+    "dragon-cards-card-deck": {
+      "catalog": "data/catalog.json",
+      "schemaVersion": 1,
+      "targetFoundry": "14",
+      "testedFoundry": "14.369"
+    }
+  },
+  "url": "https://github.com/666Arukard/dragon-cards-card-deck",
+  "bugs": "https://github.com/666Arukard/dragon-cards-card-deck/issues"
+}

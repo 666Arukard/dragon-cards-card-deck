@@ -1,0 +1,11 @@
+{
+  "checkedOn": "2026-10-21",
+  "tool": "@foundryvtt/foundryvtt-cli",
+  "toolVersion": "3.0.5",
+  "format": "LevelDB",
+  "deckDocuments": 3,
+  "embeddedCards": 177,
+  "roundTripMatches": true,
+  "emptyCliChildCollectionsIgnored": true,
+  "foundryRuntimeTest": false
+}

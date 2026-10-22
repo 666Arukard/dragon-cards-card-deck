@@ -1,0 +1,15 @@
+{
+  "source": "Daniel Brune, Nutzerbericht in diesem Chat vom 21. Oktober 2026",
+  "recordedOn": "2026-10-22",
+  "foundryVersion": "14.369",
+  "agentPerformedLiveTest": false,
+  "confirmed": {
+    "importAllThreeDecks": true,
+    "cardsPerDeck": 59,
+    "availableCardsPerDeckAtCountCheck": 59,
+    "draw": true
+  },
+  "reportedWithoutIndividualProtocol": "Ziehen und weitere Kartenaktionen funktionierten.",
+  "notSeparatelyConfirmed": ["shuffle", "deal", "recall", "player-client permissions"],
+  "fullVerificationClaim": false
+}

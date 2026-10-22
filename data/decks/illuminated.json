@@ -1,0 +1,2328 @@
+{
+  "_id": "142acb7f2a70b81e",
+  "name": "Dracima · Mittelalterliche Buchmalerei",
+  "type": "deck",
+  "description": "<p>59 Dracima-Drachenkarten · Mittelalterliche Buchmalerei. Gestaltung: Daniel Brune, KI-generiert beziehungsweise KI-basiert. Keine Spielregeln.</p>",
+  "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+  "width": 2,
+  "height": 3,
+  "rotation": 0,
+  "displayCount": true,
+  "sort": 100000,
+  "folder": null,
+  "ownership": {
+    "default": 0
+  },
+  "system": {},
+  "flags": {
+    "dragon-cards-card-deck": {
+      "setId": "dracima-dragon-cards",
+      "styleId": "illuminated",
+      "schemaVersion": 1,
+      "catalog": "data/catalog.json"
+    }
+  },
+  "cards": [
+    {
+      "_id": "7383e648359ccc9d",
+      "name": "Bierkrug · 2",
+      "type": "base",
+      "suit": "hearts",
+      "value": 2,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 100000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 2",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_02.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 2</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-02",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "2",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "fa8c16755185d49c",
+      "name": "Bierkrug · 3",
+      "type": "base",
+      "suit": "hearts",
+      "value": 3,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 200000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 3",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_03.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 3</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-03",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "3",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "c63e16a592045fda",
+      "name": "Bierkrug · 4",
+      "type": "base",
+      "suit": "hearts",
+      "value": 4,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 300000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 4",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_04.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 4</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-04",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "4",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "dc759285efddf55e",
+      "name": "Bierkrug · 5",
+      "type": "base",
+      "suit": "hearts",
+      "value": 5,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 400000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 5",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_05.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 5</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-05",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "5",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "bf9c1bad9f451fe2",
+      "name": "Bierkrug · 6",
+      "type": "base",
+      "suit": "hearts",
+      "value": 6,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 500000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 6",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_06.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 6</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-06",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "6",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "1234a2706f2cd4e9",
+      "name": "Bierkrug · 7",
+      "type": "base",
+      "suit": "hearts",
+      "value": 7,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 600000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 7",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_07.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 7</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-07",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "7",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "b852a287fa6fa093",
+      "name": "Bierkrug · 8",
+      "type": "base",
+      "suit": "hearts",
+      "value": 8,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 700000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 8",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_08.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 8</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-08",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "8",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "f443f4e59b3ecab7",
+      "name": "Bierkrug · 9",
+      "type": "base",
+      "suit": "hearts",
+      "value": 9,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 800000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 9",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_09.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 9</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-09",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "9",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "d2aba58196d0b41c",
+      "name": "Bierkrug · 10",
+      "type": "base",
+      "suit": "hearts",
+      "value": 10,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 900000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · 10",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_10.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · 10</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-10",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "10",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "881af21a35013d7b",
+      "name": "Bierkrug · Drachennestling",
+      "type": "base",
+      "suit": "hearts",
+      "value": 11,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1000000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · Drachennestling",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_B_Drachennestling.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · Drachennestling</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-jack",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "jack",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "0b73173ffdbbc7b8",
+      "name": "Bierkrug · Jungdrache",
+      "type": "base",
+      "suit": "hearts",
+      "value": 12,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1100000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · Jungdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_D_Jungdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · Jungdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-queen",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "queen",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "8f521333878091ba",
+      "name": "Bierkrug · Ausgewachsener Drache",
+      "type": "base",
+      "suit": "hearts",
+      "value": 13,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1200000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · Ausgewachsener Drache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_K_Ausgewachsener_Drache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · Ausgewachsener Drache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-king",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "king",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "b9c11fe4fb74d5ce",
+      "name": "Bierkrug · Uraltdrache",
+      "type": "base",
+      "suit": "hearts",
+      "value": 14,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1300000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · Uraltdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_A_Uraltdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · Uraltdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-ace",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "ace",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "81f5779e09f8094f",
+      "name": "Bierkrug · Urdrache (Joker)",
+      "type": "base",
+      "suit": "hearts",
+      "value": 15,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1400000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Bierkrug · Urdrache (Joker)",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Bierkrug_JK_Urdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Bierkrug · Urdrache (Joker)</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "hearts-joker",
+          "styleId": "illuminated",
+          "standardSuit": "hearts",
+          "standardRank": "joker",
+          "jokerKind": "suited",
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "8d7f7eaba51a0da9",
+      "name": "Schwert · 2",
+      "type": "base",
+      "suit": "clubs",
+      "value": 2,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1500000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 2",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_02.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 2</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-02",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "2",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "f5293873ad6897be",
+      "name": "Schwert · 3",
+      "type": "base",
+      "suit": "clubs",
+      "value": 3,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1600000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 3",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_03.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 3</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-03",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "3",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "5fb90524a125ef39",
+      "name": "Schwert · 4",
+      "type": "base",
+      "suit": "clubs",
+      "value": 4,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1700000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 4",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_04.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 4</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-04",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "4",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "bce7bdfb18400511",
+      "name": "Schwert · 5",
+      "type": "base",
+      "suit": "clubs",
+      "value": 5,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1800000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 5",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_05.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 5</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-05",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "5",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "13c139498c348916",
+      "name": "Schwert · 6",
+      "type": "base",
+      "suit": "clubs",
+      "value": 6,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 1900000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 6",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_06.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 6</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-06",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "6",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "22ae0a1d8b6183e4",
+      "name": "Schwert · 7",
+      "type": "base",
+      "suit": "clubs",
+      "value": 7,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2000000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 7",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_07.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 7</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-07",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "7",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "63d815768c1e0836",
+      "name": "Schwert · 8",
+      "type": "base",
+      "suit": "clubs",
+      "value": 8,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2100000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 8",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_08.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 8</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-08",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "8",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "4f3244cd85251bc7",
+      "name": "Schwert · 9",
+      "type": "base",
+      "suit": "clubs",
+      "value": 9,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2200000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 9",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_09.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 9</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-09",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "9",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "9a6fc27aaf75f30f",
+      "name": "Schwert · 10",
+      "type": "base",
+      "suit": "clubs",
+      "value": 10,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2300000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · 10",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_10.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · 10</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-10",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "10",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "22def90afa7c9d94",
+      "name": "Schwert · Drachennestling",
+      "type": "base",
+      "suit": "clubs",
+      "value": 11,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2400000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · Drachennestling",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_B_Drachennestling.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · Drachennestling</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-jack",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "jack",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "1e30ecde26f6290c",
+      "name": "Schwert · Jungdrache",
+      "type": "base",
+      "suit": "clubs",
+      "value": 12,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2500000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · Jungdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_D_Jungdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · Jungdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-queen",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "queen",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "9bda0e3186067b23",
+      "name": "Schwert · Ausgewachsener Drache",
+      "type": "base",
+      "suit": "clubs",
+      "value": 13,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2600000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · Ausgewachsener Drache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_K_Ausgewachsener_Drache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · Ausgewachsener Drache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-king",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "king",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "8960d78ff54d9e48",
+      "name": "Schwert · Uraltdrache",
+      "type": "base",
+      "suit": "clubs",
+      "value": 14,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2700000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · Uraltdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_A_Uraltdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · Uraltdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-ace",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "ace",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "436aec6856a75904",
+      "name": "Schwert · Urdrache (Joker)",
+      "type": "base",
+      "suit": "clubs",
+      "value": 15,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2800000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schwert · Urdrache (Joker)",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schwert_JK_Urdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schwert · Urdrache (Joker)</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "clubs-joker",
+          "styleId": "illuminated",
+          "standardSuit": "clubs",
+          "standardRank": "joker",
+          "jokerKind": "suited",
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "dc664dfb4b9562aa",
+      "name": "Schild · 2",
+      "type": "base",
+      "suit": "spades",
+      "value": 2,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 2900000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 2",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_02.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 2</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-02",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "2",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "60da34aff84d9833",
+      "name": "Schild · 3",
+      "type": "base",
+      "suit": "spades",
+      "value": 3,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3000000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 3",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_03.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 3</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-03",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "3",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "c2d012fbf5b40976",
+      "name": "Schild · 4",
+      "type": "base",
+      "suit": "spades",
+      "value": 4,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3100000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 4",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_04.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 4</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-04",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "4",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "2c2b871cb6f1a3ff",
+      "name": "Schild · 5",
+      "type": "base",
+      "suit": "spades",
+      "value": 5,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3200000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 5",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_05.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 5</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-05",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "5",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "e7b761772fdac59f",
+      "name": "Schild · 6",
+      "type": "base",
+      "suit": "spades",
+      "value": 6,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3300000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 6",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_06.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 6</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-06",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "6",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "a8264087a7a0c01b",
+      "name": "Schild · 7",
+      "type": "base",
+      "suit": "spades",
+      "value": 7,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3400000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 7",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_07.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 7</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-07",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "7",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "55ba13ec9f10a3de",
+      "name": "Schild · 8",
+      "type": "base",
+      "suit": "spades",
+      "value": 8,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3500000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 8",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_08.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 8</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-08",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "8",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "370ec4736ab6d500",
+      "name": "Schild · 9",
+      "type": "base",
+      "suit": "spades",
+      "value": 9,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3600000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 9",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_09.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 9</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-09",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "9",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "26c1fc162ecd99f1",
+      "name": "Schild · 10",
+      "type": "base",
+      "suit": "spades",
+      "value": 10,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3700000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · 10",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_10.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · 10</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-10",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "10",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "3d3b1edec11ac057",
+      "name": "Schild · Drachennestling",
+      "type": "base",
+      "suit": "spades",
+      "value": 11,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3800000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · Drachennestling",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_B_Drachennestling.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · Drachennestling</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-jack",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "jack",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "211bbd3b66c5639d",
+      "name": "Schild · Jungdrache",
+      "type": "base",
+      "suit": "spades",
+      "value": 12,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 3900000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · Jungdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_D_Jungdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · Jungdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-queen",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "queen",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "ce814800497287df",
+      "name": "Schild · Ausgewachsener Drache",
+      "type": "base",
+      "suit": "spades",
+      "value": 13,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4000000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · Ausgewachsener Drache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_K_Ausgewachsener_Drache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · Ausgewachsener Drache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-king",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "king",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "b8b04215722dc459",
+      "name": "Schild · Uraltdrache",
+      "type": "base",
+      "suit": "spades",
+      "value": 14,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4100000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · Uraltdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_A_Uraltdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · Uraltdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-ace",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "ace",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "33a4763850cc3605",
+      "name": "Schild · Urdrache (Joker)",
+      "type": "base",
+      "suit": "spades",
+      "value": 15,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4200000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Schild · Urdrache (Joker)",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Schild_JK_Urdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Schild · Urdrache (Joker)</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "spades-joker",
+          "styleId": "illuminated",
+          "standardSuit": "spades",
+          "standardRank": "joker",
+          "jokerKind": "suited",
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "afb1b469b0c56874",
+      "name": "Münze · 2",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 2,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4300000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 2",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_02.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 2</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-02",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "2",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "d5d960265f3693d5",
+      "name": "Münze · 3",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 3,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4400000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 3",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_03.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 3</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-03",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "3",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "cd18254c69640eb8",
+      "name": "Münze · 4",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 4,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4500000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 4",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_04.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 4</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-04",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "4",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "a8862df6d49131ed",
+      "name": "Münze · 5",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 5,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4600000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 5",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_05.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 5</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-05",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "5",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "80f083b49b9b0a1e",
+      "name": "Münze · 6",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 6,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4700000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 6",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_06.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 6</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-06",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "6",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "239d51ddf6c67213",
+      "name": "Münze · 7",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 7,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4800000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 7",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_07.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 7</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-07",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "7",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "6cc3adc4654ffe37",
+      "name": "Münze · 8",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 8,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 4900000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 8",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_08.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 8</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-08",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "8",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "67ef8ff40e04ef75",
+      "name": "Münze · 9",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 9,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5000000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 9",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_09.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 9</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-09",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "9",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "92974200d9855865",
+      "name": "Münze · 10",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 10,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5100000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · 10",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_10.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · 10</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-10",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "10",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "4e65cf47d1675288",
+      "name": "Münze · Drachennestling",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 11,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5200000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · Drachennestling",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_B_Drachennestling.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · Drachennestling</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-jack",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "jack",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "dc143593c7cbf04f",
+      "name": "Münze · Jungdrache",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 12,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5300000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · Jungdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_D_Jungdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · Jungdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-queen",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "queen",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "cc5a700b8c50d026",
+      "name": "Münze · Ausgewachsener Drache",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 13,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5400000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · Ausgewachsener Drache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_K_Ausgewachsener_Drache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · Ausgewachsener Drache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-king",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "king",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "38a60142ba811e54",
+      "name": "Münze · Uraltdrache",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 14,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5500000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · Uraltdrache",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_A_Uraltdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · Uraltdrache</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-ace",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "ace",
+          "jokerKind": null,
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "882a8fe90e782e3f",
+      "name": "Münze · Urdrache (Joker)",
+      "type": "base",
+      "suit": "diamonds",
+      "value": 15,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5600000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Münze · Urdrache (Joker)",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Muenze_JK_Urdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Münze · Urdrache (Joker)</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "diamonds-joker",
+          "styleId": "illuminated",
+          "standardSuit": "diamonds",
+          "standardRank": "joker",
+          "jokerKind": "suited",
+          "jokerVariant": null,
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "fe2d68b1ead67009",
+      "name": "Urdrache · Licht (unabhängiger Joker)",
+      "type": "base",
+      "suit": "",
+      "value": 15,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5700000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Urdrache · Licht (unabhängiger Joker)",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Joker_Unabhaengig_01_Urdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Urdrache · Licht (unabhängiger Joker)</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "joker-independent-01",
+          "styleId": "illuminated",
+          "standardSuit": null,
+          "standardRank": "joker",
+          "jokerKind": "independent",
+          "jokerVariant": "Licht",
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "f7630fe7217ab0f5",
+      "name": "Urdrache · Schatten (unabhängiger Joker)",
+      "type": "base",
+      "suit": "",
+      "value": 15,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5800000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Urdrache · Schatten (unabhängiger Joker)",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Joker_Unabhaengig_02_Urdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Urdrache · Schatten (unabhängiger Joker)</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "joker-independent-02",
+          "styleId": "illuminated",
+          "standardSuit": null,
+          "standardRank": "joker",
+          "jokerKind": "independent",
+          "jokerVariant": "Schatten",
+          "schemaVersion": 1
+        }
+      }
+    },
+    {
+      "_id": "2dfc6b351e6780b5",
+      "name": "Urdrache · Kosmos (unabhängiger Joker)",
+      "type": "base",
+      "suit": "",
+      "value": 15,
+      "width": 2,
+      "height": 3,
+      "rotation": 0,
+      "sort": 5900000,
+      "drawn": false,
+      "face": 0,
+      "faces": [
+        {
+          "name": "Urdrache · Kosmos (unabhängiger Joker)",
+          "img": "modules/dragon-cards-card-deck/assets/fronts/illuminated/Joker_Unabhaengig_03_Urdrache.webp",
+          "text": ""
+        }
+      ],
+      "back": {
+        "name": "Dracima",
+        "img": "modules/dragon-cards-card-deck/assets/backs/illuminated.webp",
+        "text": ""
+      },
+      "description": "<p>Urdrache · Kosmos (unabhängiger Joker)</p>",
+      "system": {},
+      "flags": {
+        "dragon-cards-card-deck": {
+          "setId": "dracima-dragon-cards",
+          "cardId": "joker-independent-03",
+          "styleId": "illuminated",
+          "standardSuit": null,
+          "standardRank": "joker",
+          "jokerKind": "independent",
+          "jokerVariant": "Kosmos",
+          "schemaVersion": 1
+        }
+      }
+    }
+  ]
+}

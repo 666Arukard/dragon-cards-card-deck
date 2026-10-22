@@ -1,0 +1,24 @@
+{
+  "name": "dragon-cards-card-deck",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "author": "Daniel Brune",
+  "scripts": {
+    "pack": "node tools/pack.mjs",
+    "validate": "node tools/validate.mjs",
+    "schema": "node tools/schema.mjs",
+    "roundtrip": "node tools/roundtrip.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "3.0.5",
+    "ajv": "8.17.1"
+  },
+  "contributors": [
+    {
+      "name": "ChatGPT/Codex (KI-Unterstützung)"
+    }
+  ]
+}

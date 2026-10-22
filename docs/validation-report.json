@@ -1,0 +1,26 @@
+{
+  "checkedOn": "2026-10-22",
+  "targetFoundry": "14",
+  "referenceApi": "14.368",
+  "verifiedFoundry": null,
+  "variantCount": 3,
+  "cardsPerVariant": 59,
+  "regularPerVariant": 52,
+  "suitedJokersPerVariant": 4,
+  "independentJokersPerVariant": 3,
+  "frontFiles": 177,
+  "distinctBackFiles": 3,
+  "stableLogicalAndEmbeddedIds": true,
+  "relativePathsAndImageDimensions": true,
+  "sourceAssetHashesUnchanged": true,
+  "sourceAssetsReadOnly": true,
+  "nativeRuntimeTests": {
+    "import": "not executed by agent",
+    "shuffle": "not executed by agent",
+    "deal": "not executed by agent",
+    "draw": "not executed by agent",
+    "recall": "not executed by agent",
+    "playerHands": "not executed by agent"
+  },
+  "userEvidence": "docs/user-test-evidence.json"
+}

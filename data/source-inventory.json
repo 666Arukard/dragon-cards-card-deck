@@ -1,0 +1,751 @@
+{
+  "sourceFilesUnchanged": true,
+  "backStrategy": "SHA-256 deduplication; distinct back per style",
+  "uniqueBacks": 3,
+  "variants": [
+    {
+      "styleId": "realistic",
+      "sourceDirectory": "Drachenkarten_Realistisch_WebP",
+      "frontCount": 59,
+      "backFile": "Rueckseite.webp",
+      "files": [
+        {
+          "file": "Bierkrug_02.webp",
+          "sha256": "b475c09b5b56ed842999edf5cbc5eaf668674eabb3cdd2000e2f439832eb8e1e"
+        },
+        {
+          "file": "Bierkrug_03.webp",
+          "sha256": "bcf1064747559a8e5697f0e44b369b77eda8ed828c8f558fc424834ae42c2f90"
+        },
+        {
+          "file": "Bierkrug_04.webp",
+          "sha256": "7ada8bec71282fdb799037a9ff4bd9468d55b82b1d9368e9dc7e9a2a9ad2469e"
+        },
+        {
+          "file": "Bierkrug_05.webp",
+          "sha256": "dc301892f09c51502d81131ae75ffc649193b2215faed944133ed1160ea0e17d"
+        },
+        {
+          "file": "Bierkrug_06.webp",
+          "sha256": "c73ec8c8eb0c759b6cbf92a366d3f5fe2b28ad029be75f770f87989e08c32019"
+        },
+        {
+          "file": "Bierkrug_07.webp",
+          "sha256": "df6bd7de3e783611c33386a8dae9903e2bdce046cd6453e38d07edb6427d14c6"
+        },
+        {
+          "file": "Bierkrug_08.webp",
+          "sha256": "5c793f7ad29c60b8d32f90b01e6fc3cb01e5e646fd66f30ce50d2e2d80d6e3e2"
+        },
+        {
+          "file": "Bierkrug_09.webp",
+          "sha256": "b79f5f35a23aba0d09f165945b075b3beaa4d0c4d5d5589d68e39420454349c2"
+        },
+        {
+          "file": "Bierkrug_10.webp",
+          "sha256": "10c6432679d440b87456178cde0db7792ee6af29e16c9778a9e3634b734a433f"
+        },
+        {
+          "file": "Bierkrug_A_Uraltdrache.webp",
+          "sha256": "f627b09e5bf52fa0ff826dc97b1855d1b8da1f2828fa3f1942363dd3cac0d0e9"
+        },
+        {
+          "file": "Bierkrug_B_Drachennestling.webp",
+          "sha256": "4c63df6b1a3b5014039161fd5423933d1c6144d130d59a97502619b424494fb9"
+        },
+        {
+          "file": "Bierkrug_D_Jungdrache.webp",
+          "sha256": "f7a8e90137ffaab1ed78ec332720d782a69c0543d93696d8cf3c4f36a25095fd"
+        },
+        {
+          "file": "Bierkrug_JK_Urdrache.webp",
+          "sha256": "d8b622af1aadac0c023d56bc5880381d05427d814446315e830041fb0a634d06"
+        },
+        {
+          "file": "Bierkrug_K_Ausgewachsener_Drache.webp",
+          "sha256": "52428873701c6cdd58cbc7cbd34d44385b2d13e611574f9596f50ddd7a84d3e9"
+        },
+        {
+          "file": "Joker_Unabhaengig_01_Urdrache.webp",
+          "sha256": "612095a8a15dea1494e8f104a1bf0892e8cf1e2e71648180e497b9c6126072a9"
+        },
+        {
+          "file": "Joker_Unabhaengig_02_Urdrache.webp",
+          "sha256": "4ed35662f0c51fcb2db1d7ede5e4c49547edc629eb047706c818581bd737ad7c"
+        },
+        {
+          "file": "Joker_Unabhaengig_03_Urdrache.webp",
+          "sha256": "a717ccbf33396baf9dff7a4aef24a36a295639b47a7f946b6f29588fc7889c67"
+        },
+        {
+          "file": "Muenze_02.webp",
+          "sha256": "1f75dc33f69ca1e842bcf9cb71e41f4bfe41257764294f94f862f7017cba183a"
+        },
+        {
+          "file": "Muenze_03.webp",
+          "sha256": "fa854ee110920c8a2f0621dc1a5ab21fc648e5f53237137bec10ee467034fb4c"
+        },
+        {
+          "file": "Muenze_04.webp",
+          "sha256": "3dcc46fd48e697340a837f5282be39faff1009240524def5c4a4a9472c18f3c0"
+        },
+        {
+          "file": "Muenze_05.webp",
+          "sha256": "fe4e5e5defd9a6f73317b376a79ab16dc7fed71381be7a5f1a2dd9a4a1447c19"
+        },
+        {
+          "file": "Muenze_06.webp",
+          "sha256": "467aa7b97e24b6da24f29367018262eec00b49bddd2d6c07e9fae97449c51d20"
+        },
+        {
+          "file": "Muenze_07.webp",
+          "sha256": "918f3cd5ffe6fcf320938a69d96fe5ffe9c68d8669d7418ed5ec8b4106eba6b0"
+        },
+        {
+          "file": "Muenze_08.webp",
+          "sha256": "6ad0479012dd7aff2625b119f4bf87c5cd8aa3f3f15aaf7ebe17962837f27cc1"
+        },
+        {
+          "file": "Muenze_09.webp",
+          "sha256": "1da2dc9ba67daef65b5532ec21370a9002101b86bb39789b8df74076b58bd951"
+        },
+        {
+          "file": "Muenze_10.webp",
+          "sha256": "027351a697f3960937ce80f498f26870c8ea2d617867c69b6adedef41a7c5d1f"
+        },
+        {
+          "file": "Muenze_A_Uraltdrache.webp",
+          "sha256": "7e4c57c364fc6cbfc633f9576b4cdbfc871f529d50854184b39a89a8761442ee"
+        },
+        {
+          "file": "Muenze_B_Drachennestling.webp",
+          "sha256": "75d8ad3c3bbb6b139842a988dcc27197c00c0188fe46fc0e3141e2303ca1f774"
+        },
+        {
+          "file": "Muenze_D_Jungdrache.webp",
+          "sha256": "653be97c9dd338af228cd19fab92c4ed0e8c8b2a37938b136460ed76069651f7"
+        },
+        {
+          "file": "Muenze_JK_Urdrache.webp",
+          "sha256": "10acf4ee8546d49ebec77ef131d379662d3b5cb66bb7c3069d0d7f1d8f9f2699"
+        },
+        {
+          "file": "Muenze_K_Ausgewachsener_Drache.webp",
+          "sha256": "d2c687035aebe4f4a7d31888222739c23c9bba7a7af16659a4502206d5680e98"
+        },
+        {
+          "file": "Rueckseite.webp",
+          "sha256": "6f6aa39514a398db3494803485e4a0542d48b91e5f162444faed674fae4ab1f6"
+        },
+        {
+          "file": "Schild_02.webp",
+          "sha256": "ca7e54c682eb79cc90457e1722e79fe7f3490b9e002d0f3e4b73c56e030310b6"
+        },
+        {
+          "file": "Schild_03.webp",
+          "sha256": "4d36da9a168afd55138207430bb1edc636a43188d55aa0726024b953010e72a5"
+        },
+        {
+          "file": "Schild_04.webp",
+          "sha256": "2046514d3a48d4c117d1e8cd9d8a95140b4e495dec8002f8ac8e7e3342c2c22e"
+        },
+        {
+          "file": "Schild_05.webp",
+          "sha256": "48356553e19611daa111a25f5031bde5fb6d2048db2a8442fd94bae6157dfc12"
+        },
+        {
+          "file": "Schild_06.webp",
+          "sha256": "fc7fd5477bfced6067e2f892f1402508d8260d269ab802d38de67949077af077"
+        },
+        {
+          "file": "Schild_07.webp",
+          "sha256": "4706b4826b2225528499bdab32a855d6faf1c832f2d8b8f420def6bccb592ebe"
+        },
+        {
+          "file": "Schild_08.webp",
+          "sha256": "3b930efda9833a3aea155f68cda86c79a53dd583ad48e178eaf21302a27c8d84"
+        },
+        {
+          "file": "Schild_09.webp",
+          "sha256": "9f39501c4fd2baf1751cc1bf27d757729107231a81a2cce2a3357078042b9166"
+        },
+        {
+          "file": "Schild_10.webp",
+          "sha256": "678565619d441e88e5b0f2088cbc2280d0de80b68803a2597bef70d893252620"
+        },
+        {
+          "file": "Schild_A_Uraltdrache.webp",
+          "sha256": "7fd7b0143a53d34289415dd3337a9962d9b3740f4312e9ff98b89f17754921b4"
+        },
+        {
+          "file": "Schild_B_Drachennestling.webp",
+          "sha256": "6a7f43cb57d3638cf4e31f0b022103b5a1c421ba849dc6e40f21a30c77eb3b7b"
+        },
+        {
+          "file": "Schild_D_Jungdrache.webp",
+          "sha256": "7b8180743d251f4eca4a00e4913953ae2cb9c1b0bb39b30a8dd2221bf479e9e5"
+        },
+        {
+          "file": "Schild_JK_Urdrache.webp",
+          "sha256": "83c9c211c430034bcbd14fe14500640f625b73800ac85e2d6be58802b8a64b0c"
+        },
+        {
+          "file": "Schild_K_Ausgewachsener_Drache.webp",
+          "sha256": "7afd07e3bd1442f6bdf40539e79006297d91137339f7676d0df853f798812c1e"
+        },
+        {
+          "file": "Schwert_02.webp",
+          "sha256": "8f848bf6179f2fea404e77185ae350fff6ad69d319fe385eaa2c5bd588cd0a0e"
+        },
+        {
+          "file": "Schwert_03.webp",
+          "sha256": "dede450039ecb575eeda275b29756a68d91d6b0d19d39fbd541850b4f9bc8c8c"
+        },
+        {
+          "file": "Schwert_04.webp",
+          "sha256": "c3b5115ed5b36efcc3c51492a6e106d9596c4dae1f30fa39ba9218f24a580928"
+        },
+        {
+          "file": "Schwert_05.webp",
+          "sha256": "135adba5b2317108bbccd5dc319d7be4a791bf8d3fadd3b1a3bd0f48449f3d16"
+        },
+        {
+          "file": "Schwert_06.webp",
+          "sha256": "02e15069993078798144c339d247c90d3e2d69e8d3bb14db56d2604375eddf76"
+        },
+        {
+          "file": "Schwert_07.webp",
+          "sha256": "a7e26e9a010d91138c9c811305fff324811cbf24942f80759760cd78ad81b93f"
+        },
+        {
+          "file": "Schwert_08.webp",
+          "sha256": "5ff3e516f3dde2d3b3f55259ee0c0ff13f16de3ab03d2da28c92802f99f38ffd"
+        },
+        {
+          "file": "Schwert_09.webp",
+          "sha256": "b6a95645cdae80b29665379b28e4bdb4a2f72940d1df9d392ae626bdb921bc51"
+        },
+        {
+          "file": "Schwert_10.webp",
+          "sha256": "74cfeb1113dffe64ba35664b288d6cc3c9255fa9579833f7fe65914b10a00763"
+        },
+        {
+          "file": "Schwert_A_Uraltdrache.webp",
+          "sha256": "923b5a296fe3bcf426706911ae5bfd3c6e3a1b72b99a7cc2d7c1f4027d34bcfe"
+        },
+        {
+          "file": "Schwert_B_Drachennestling.webp",
+          "sha256": "8da4e6a5e78bf49fac7aebb61717bbd56d4b94bcaa23e56b7c83a50c6f1427ae"
+        },
+        {
+          "file": "Schwert_D_Jungdrache.webp",
+          "sha256": "f98e52eb7a53533d2fa8201f323d15ac1517e6eafe98e1d47eab9707af15c689"
+        },
+        {
+          "file": "Schwert_JK_Urdrache.webp",
+          "sha256": "4f3d2660c3ebabe25cc9317ebeed02e4307d4ee63eb851b1a4db8a92f6c50be6"
+        },
+        {
+          "file": "Schwert_K_Ausgewachsener_Drache.webp",
+          "sha256": "830b2dc7836a9ea1da3098f19d58e8e5fb6429eb386142203c20276fa768dd05"
+        }
+      ]
+    },
+    {
+      "styleId": "illuminated",
+      "sourceDirectory": "Drachenkarten_Buchmalerei_WebP",
+      "frontCount": 59,
+      "backFile": "Rueckseite.webp",
+      "files": [
+        {
+          "file": "Bierkrug_02.webp",
+          "sha256": "a1cb205b6118823b7b86c0fab2a8b494e39c958802d93244eaec6166902fc68a"
+        },
+        {
+          "file": "Bierkrug_03.webp",
+          "sha256": "7288b930d001bc161189bdd0ffef0ee793b4157f23d440a9f73f991ab90f59ec"
+        },
+        {
+          "file": "Bierkrug_04.webp",
+          "sha256": "5f7355c60d34b003d5042803a7deb62306e8ad90066cd4d378703499a698d3dd"
+        },
+        {
+          "file": "Bierkrug_05.webp",
+          "sha256": "99aa99b91365c5ff290c5a80b3c012ed5c302f0093cd22875f336a4ccfef90ae"
+        },
+        {
+          "file": "Bierkrug_06.webp",
+          "sha256": "e40eafe4cacaf18b5174f59ea199e2a3670a769b1c851b33a37f023ee2da61a0"
+        },
+        {
+          "file": "Bierkrug_07.webp",
+          "sha256": "e021bd0de527c2d1e044c3196aa9a3b8e3cd47499ab592b688c966da099283d3"
+        },
+        {
+          "file": "Bierkrug_08.webp",
+          "sha256": "5bfc3abd16bf4615f5df33640cdbf19bc509be41027a3e04d2ea86ae3f42a7bc"
+        },
+        {
+          "file": "Bierkrug_09.webp",
+          "sha256": "4fd169e11f2bf75ef816a13e1f235b3dc5061d06898b4631f9fa9321ae5759a7"
+        },
+        {
+          "file": "Bierkrug_10.webp",
+          "sha256": "80faec13ec5519f5fba6555678ac5bd01b5049ba0ce73b5687ce965e77ee916b"
+        },
+        {
+          "file": "Bierkrug_A_Uraltdrache.webp",
+          "sha256": "80995a92b45ee86fa0c9d519c49809adcf7531ccf9fe8672677820d68a845a8e"
+        },
+        {
+          "file": "Bierkrug_B_Drachennestling.webp",
+          "sha256": "34a635c0099bf18be9dc42a992e1391182e8107a738632e3b97b8ae6522d0d89"
+        },
+        {
+          "file": "Bierkrug_D_Jungdrache.webp",
+          "sha256": "a59291556b3fa4b446571d1a6e78a5f419a82014ac7d97110856b3f2737705d1"
+        },
+        {
+          "file": "Bierkrug_JK_Urdrache.webp",
+          "sha256": "82fdf7b37780f8bcde42c20deb06e6fab7356d34781e4112767968ca1b282ded"
+        },
+        {
+          "file": "Bierkrug_K_Ausgewachsener_Drache.webp",
+          "sha256": "a10b9c6166dd436f9fecef9b8ab680be29ffa74c4fea1660cb424f792c226538"
+        },
+        {
+          "file": "Joker_Unabhaengig_01_Urdrache.webp",
+          "sha256": "0418f0323d073035b88d121cf44919c2fb1c2a51a136cb531eb48caac247b4b0"
+        },
+        {
+          "file": "Joker_Unabhaengig_02_Urdrache.webp",
+          "sha256": "ac5f9ef9086516e64777b3820a91a5fa5cfb385bf6a632514f07a48e0f2c568e"
+        },
+        {
+          "file": "Joker_Unabhaengig_03_Urdrache.webp",
+          "sha256": "db2651012fe6f4566d3234600588cdde7be58d22e1621f08170d259de88b2693"
+        },
+        {
+          "file": "Muenze_02.webp",
+          "sha256": "2376d55270aa3f63407acedfe78e1cc252b1d4216ef4387316e6339937108aa5"
+        },
+        {
+          "file": "Muenze_03.webp",
+          "sha256": "8ab158f583213a26acbff00566caf7fe013ab91d04f38fc9de98a8fd6c7e58fb"
+        },
+        {
+          "file": "Muenze_04.webp",
+          "sha256": "004990940f3555f4c9d0ac4eee022bc4eff50735dd1a7e4c5a1c9a2fe2cd8361"
+        },
+        {
+          "file": "Muenze_05.webp",
+          "sha256": "ac031aff2a18fff4f9089759cb90dce1e48e7e5f1eb9303d5c68efc2df00fd33"
+        },
+        {
+          "file": "Muenze_06.webp",
+          "sha256": "9d9f494e41dd22f6df5a030f5c8565a9ce091334414e32559aa86383ffb99426"
+        },
+        {
+          "file": "Muenze_07.webp",
+          "sha256": "e655a3791f69a0f2327ab4a29084a4ca6ac648f6971cb1bdfe1a35dd82511037"
+        },
+        {
+          "file": "Muenze_08.webp",
+          "sha256": "ebabe82fd687637d994c8ac23ac3295875cec3498e76bc8bb70e0a196db4c42f"
+        },
+        {
+          "file": "Muenze_09.webp",
+          "sha256": "51e8ab06792bfceace6a373271020f6b77ef4c5909951fa28628aac03e601095"
+        },
+        {
+          "file": "Muenze_10.webp",
+          "sha256": "7d350ffb59262d8c055186c67904df6d65298692a16522972ec2b6c4505bf133"
+        },
+        {
+          "file": "Muenze_A_Uraltdrache.webp",
+          "sha256": "9d5f939ae3d381dac3caa0feda4cb510762731c474b361cb10a3b05137fa6c46"
+        },
+        {
+          "file": "Muenze_B_Drachennestling.webp",
+          "sha256": "228dc06082502dcb92b23fde899e4fd67c8daf76bfbc7e74e5c216cf6011f1b4"
+        },
+        {
+          "file": "Muenze_D_Jungdrache.webp",
+          "sha256": "cc8550c25cdbb91db4e582068c52b9a51a85862a88b3b21c43411db4323a612e"
+        },
+        {
+          "file": "Muenze_JK_Urdrache.webp",
+          "sha256": "6d9ed85401a1f48556da18267ef6f1e4980b388a6b6f4fb1f0ed4aea1e0b9043"
+        },
+        {
+          "file": "Muenze_K_Ausgewachsener_Drache.webp",
+          "sha256": "06556ae4389db06ba12101ba016fd970dc06ffc86668d2c5d849f517e77e0a25"
+        },
+        {
+          "file": "Rueckseite.webp",
+          "sha256": "92347249c65be5a0b245f9b42de8d5923c176fa09d2ff0e4e8601620b7635086"
+        },
+        {
+          "file": "Schild_02.webp",
+          "sha256": "d7c54e1131daaf8ff25c52f755073704d39a1ad272fcb7bafa5d65a20a943366"
+        },
+        {
+          "file": "Schild_03.webp",
+          "sha256": "fc8aa00ccc115d022191f7053a834ed300a36595e52e9ff93b8b81de005da338"
+        },
+        {
+          "file": "Schild_04.webp",
+          "sha256": "d2e4c11d811a4526f110a247251049af010715e27e023b5538e15edc7ff6756a"
+        },
+        {
+          "file": "Schild_05.webp",
+          "sha256": "c01b920e43e1a74e696e8a09052d94eed8f7105c04964b73e1f4c0cfb1338005"
+        },
+        {
+          "file": "Schild_06.webp",
+          "sha256": "24e3bbcb041bdf04f6aed64218177d3fb30d725fc8525d52dbc16a0ef5230ea5"
+        },
+        {
+          "file": "Schild_07.webp",
+          "sha256": "4e199fe13d265ba1beadbc962799bead68855cd2cd962a0fca4c51f3cd86c0be"
+        },
+        {
+          "file": "Schild_08.webp",
+          "sha256": "b78b78fd7dd9c3275a8dd229616257189a553a23cf243e0e6292387bc61e880b"
+        },
+        {
+          "file": "Schild_09.webp",
+          "sha256": "5822f94ef0345c694b971ae02324bcfad2a2c950f9c1529b024c9a06ac19471b"
+        },
+        {
+          "file": "Schild_10.webp",
+          "sha256": "479f050fd2976853247c2ad217d634c17b5432b67a47786c3899b1963f39e454"
+        },
+        {
+          "file": "Schild_A_Uraltdrache.webp",
+          "sha256": "55bae7d12b447d76b6269603bd752b591b03b0123b10f694120a3ef201714c83"
+        },
+        {
+          "file": "Schild_B_Drachennestling.webp",
+          "sha256": "3fa9842dc33849b5d7b08bdf238b4d2f756ac30bc327932a04a58f4ad26aca28"
+        },
+        {
+          "file": "Schild_D_Jungdrache.webp",
+          "sha256": "428581650e264e86cee4245a5a6fa2c9e01278a979d98d3c6f70e0f9e22ad64a"
+        },
+        {
+          "file": "Schild_JK_Urdrache.webp",
+          "sha256": "f765abc3c8ad5b1d358fea7cdf7cf97b5f0c3c0f6e0f515aa448d8cea83394db"
+        },
+        {
+          "file": "Schild_K_Ausgewachsener_Drache.webp",
+          "sha256": "c1e7fbcfb1574d025aaf683783bdb10ab2a6f49c4f0ba718b4f1fe99ab2dcf62"
+        },
+        {
+          "file": "Schwert_02.webp",
+          "sha256": "6bcb7583d0425daf3fabaefeae5c35c33d0a99a21ad0dca99da9ed17757d011a"
+        },
+        {
+          "file": "Schwert_03.webp",
+          "sha256": "9a51683642c1a10635449389589de7ad8edccd0e49fcfc3c179927c48c846a1f"
+        },
+        {
+          "file": "Schwert_04.webp",
+          "sha256": "df1510ccc0452fd30bd3b8c050453152faf55f6f7086cded2f0a825f0a7caa92"
+        },
+        {
+          "file": "Schwert_05.webp",
+          "sha256": "05ab105455b7c88dce6d6818267cacd1720d83f5209d31dee5370d2827b281be"
+        },
+        {
+          "file": "Schwert_06.webp",
+          "sha256": "d28903daf00653a17a051796313f3d54ee8f08a70c1543d0ca4cfce615266f2b"
+        },
+        {
+          "file": "Schwert_07.webp",
+          "sha256": "fe3f3ccb8440b0e3cb746466546474f3f6b11c12c0ba2f4a71790763d258b39f"
+        },
+        {
+          "file": "Schwert_08.webp",
+          "sha256": "f3f841ea7fea55d4cc07a342d14d0a6a832767ae4fa68764d7553a8f32f467b9"
+        },
+        {
+          "file": "Schwert_09.webp",
+          "sha256": "cc1496c26c24084d9e14465e5cf8617268c5ab4bb4b6ff429d07d8ac6e2ec15a"
+        },
+        {
+          "file": "Schwert_10.webp",
+          "sha256": "8ded2b6983bb10d57bce5d07fd7ad85c33d9d61f12df0df81aca0bf94f05d6ba"
+        },
+        {
+          "file": "Schwert_A_Uraltdrache.webp",
+          "sha256": "92299baafa1918015ed71716bac2557596829bf3bedb50735044c00698b4dc54"
+        },
+        {
+          "file": "Schwert_B_Drachennestling.webp",
+          "sha256": "29653bc7c1cd77ced12339f07402c67edb43c22309b86e7d569f4d27fc172fa0"
+        },
+        {
+          "file": "Schwert_D_Jungdrache.webp",
+          "sha256": "79a2b5292c4a2d434a4896220d349560fc4022fd0fef05ee80b8112130f7d656"
+        },
+        {
+          "file": "Schwert_JK_Urdrache.webp",
+          "sha256": "f5d4b56ff867b3a93b65cf4caa09c74ec33ba7b3c10d6a73165e2469545e84e5"
+        },
+        {
+          "file": "Schwert_K_Ausgewachsener_Drache.webp",
+          "sha256": "96e7c78a0f5113f1c6441021398c9ade4d555ddd77d7217687c1d8767e703eb0"
+        }
+      ]
+    },
+    {
+      "styleId": "stylized",
+      "sourceDirectory": "Drachenkarten_Stilisiert_WebP",
+      "frontCount": 59,
+      "backFile": "Rueckseite.webp",
+      "files": [
+        {
+          "file": "Bierkrug_02.webp",
+          "sha256": "a9150f436c0ec57c9efb8e6a6b79349ac4da98da77864b10cb3e01bf63f1dc3e"
+        },
+        {
+          "file": "Bierkrug_03.webp",
+          "sha256": "ba12dfbd60ea1242c384a0440a2fc3333b3ec0b596f475de56d15dc69beac9f5"
+        },
+        {
+          "file": "Bierkrug_04.webp",
+          "sha256": "ee25a2800acb12e4b923f26805273e747fc2b7bccb84a14a5e3b44b804e28ff6"
+        },
+        {
+          "file": "Bierkrug_05.webp",
+          "sha256": "5df95e7dc9f7e64105498359c595034d4b6816a1b3cb164106a7422aed6bb06f"
+        },
+        {
+          "file": "Bierkrug_06.webp",
+          "sha256": "44888b60f61d49efe5b2cef5dca5551c868e76ca35ceff9dec54a36f9ab21642"
+        },
+        {
+          "file": "Bierkrug_07.webp",
+          "sha256": "7777fc2f70dcdada5814a3b1401d438c96b0f1444ab1da959ee68c37ef062ce7"
+        },
+        {
+          "file": "Bierkrug_08.webp",
+          "sha256": "297646378d774dc740ceec5d88d4af309f3e8d5d9fc40932b2d9af3863443eba"
+        },
+        {
+          "file": "Bierkrug_09.webp",
+          "sha256": "d1bb3eb98d867db46957b9abe01ac3a32d88f861e2a8ed52a324f1eb3ce6b479"
+        },
+        {
+          "file": "Bierkrug_10.webp",
+          "sha256": "9f99dd2b3bbbb9ea5087278781b947b9a3d342cd3646bc9b6d59d140fe5ccadb"
+        },
+        {
+          "file": "Bierkrug_A_Uraltdrache.webp",
+          "sha256": "c520ac7c2092b9b5eac56559ce09d510d247c30373dbb8abf4b6bac606cb1c8f"
+        },
+        {
+          "file": "Bierkrug_B_Drachennestling.webp",
+          "sha256": "58e64409d749800c38e1f0994a4f625056b283b4cca16ef51a5bd500984c05df"
+        },
+        {
+          "file": "Bierkrug_D_Jungdrache.webp",
+          "sha256": "fdf3d70ab67e030e77d8b04050dc463b7fad4c1cf8be5c725ba87ce5d59e0b83"
+        },
+        {
+          "file": "Bierkrug_JK_Urdrache.webp",
+          "sha256": "6a3b0c0e3b4d63be2bcb774eaeebf00446f054c9b91739a9f72a2f443f304699"
+        },
+        {
+          "file": "Bierkrug_K_Ausgewachsener_Drache.webp",
+          "sha256": "eab53d0bd293c86cd52a4536828b21600c3b680e3b3955fd36caef1e4f186fba"
+        },
+        {
+          "file": "Joker_Unabhaengig_01_Urdrache.webp",
+          "sha256": "0b6b50b130057ecaf23374dd0c50af94a1d4cdd0f972dbf903ee14337cbe30f4"
+        },
+        {
+          "file": "Joker_Unabhaengig_02_Urdrache.webp",
+          "sha256": "6c19d19951bc620bfab8ddb9b0eceb6d29c6e478dd62ab17a8844837a336f2e7"
+        },
+        {
+          "file": "Joker_Unabhaengig_03_Urdrache.webp",
+          "sha256": "3be9f262deda410915e87fad0d961226362938ad4dbc5ebe563091df50c886a4"
+        },
+        {
+          "file": "Muenze_02.webp",
+          "sha256": "ac62989e824048ff5024ce41b05384179c02ebcf2e8060152faeb9889dd702f7"
+        },
+        {
+          "file": "Muenze_03.webp",
+          "sha256": "3c69a4442b9530c1018d5fd471bfebef1762241153427432cf9c90c60fe5d463"
+        },
+        {
+          "file": "Muenze_04.webp",
+          "sha256": "f0ab1dc42c964e9571edfed9fad54b9bbefb1947f470de37f6d89ff9b7d9e30a"
+        },
+        {
+          "file": "Muenze_05.webp",
+          "sha256": "bcd2f1e3777fd0c2789b8acb623dd6932a697ff8de009428843472db94f544e1"
+        },
+        {
+          "file": "Muenze_06.webp",
+          "sha256": "3eb727766829705be55f5f72468c0464484b838e32550e3ef32326aac1d1a6bb"
+        },
+        {
+          "file": "Muenze_07.webp",
+          "sha256": "7d7a2ccf3dcf44e94e36599006c0072e06ad43f55113ad084e54a222d824d1d8"
+        },
+        {
+          "file": "Muenze_08.webp",
+          "sha256": "e6ee578d2d4e06ba1b83c22974eab918eb411b0651a3c34d2fe8896cca9f81e3"
+        },
+        {
+          "file": "Muenze_09.webp",
+          "sha256": "126e4c61c90407a33317c0951651f9320dd59ca6d7fe1215311e1c68892aa01d"
+        },
+        {
+          "file": "Muenze_10.webp",
+          "sha256": "5b3b15fa14d24784667f584ec49938e35114f8feab1ffc58011d6976363f9db2"
+        },
+        {
+          "file": "Muenze_A_Uraltdrache.webp",
+          "sha256": "acb62adf3717ea4b81688be6fb0f21194e38069bc6a5ce327105bf0cee5331b3"
+        },
+        {
+          "file": "Muenze_B_Drachennestling.webp",
+          "sha256": "fa4fd0b309d2c50b030b794d8a7e6c4ee652a4a665da9bb83eebb2f73d03fcec"
+        },
+        {
+          "file": "Muenze_D_Jungdrache.webp",
+          "sha256": "fd8b6a3a1667893b8ab39268c12b71be5addaf08151efaf7af17983976bc1777"
+        },
+        {
+          "file": "Muenze_JK_Urdrache.webp",
+          "sha256": "88e0c8d3f2a3645dfc2808a7275ff18ef05e00a8875fa6530b4487230fd07a8a"
+        },
+        {
+          "file": "Muenze_K_Ausgewachsener_Drache.webp",
+          "sha256": "768fd7e8e554c673b7f3db9aef620ea2258a4f6693df65e89d48160d5facdde3"
+        },
+        {
+          "file": "Rueckseite.webp",
+          "sha256": "51830f6851ae9135da370eca620210dfd0cbaf7117d7852c18267965a9d516ab"
+        },
+        {
+          "file": "Schild_02.webp",
+          "sha256": "e863dc3103f9b9363b70856fd910a67b9bcf404ce81526e34d882a268b4492d8"
+        },
+        {
+          "file": "Schild_03.webp",
+          "sha256": "c1f58eeb9c4bb766b9687f4281a829db10f8979a979dba11bbcdfbe74aad41a4"
+        },
+        {
+          "file": "Schild_04.webp",
+          "sha256": "959fb7f510e3e6091d6fd96b0a3eff809f7a0bdb6a74344f32b25f1bb9b46e1c"
+        },
+        {
+          "file": "Schild_05.webp",
+          "sha256": "185d80adcafcea8a84810ee873429e3eeaec62fb5a97040163f5e06fabc695b3"
+        },
+        {
+          "file": "Schild_06.webp",
+          "sha256": "319ae73cd4ab6ee48b23f805af9b892f4e4b507b836ef8b18fb1fa0b6bde086b"
+        },
+        {
+          "file": "Schild_07.webp",
+          "sha256": "0e51c9f06df5542d1fc23cc1ec08803b9ead65f8af2dad8920104e8a30b68f7b"
+        },
+        {
+          "file": "Schild_08.webp",
+          "sha256": "d70815a3254c93e778f3c257facf47ea06af552230ad72d837dbe26d734e67c4"
+        },
+        {
+          "file": "Schild_09.webp",
+          "sha256": "00247cd3aa091286085daf07c6f422dffddd663707c4e6479d3d09ae33b7e021"
+        },
+        {
+          "file": "Schild_10.webp",
+          "sha256": "e1a9e1a5e4269bdaaab8cfd30f44723a2df23f47616dc38e368f07b23447ffd1"
+        },
+        {
+          "file": "Schild_A_Uraltdrache.webp",
+          "sha256": "c13e83214782585f0a533ff8fe442c8d858a6739944dcb4dc772dc48e637412d"
+        },
+        {
+          "file": "Schild_B_Drachennestling.webp",
+          "sha256": "cbbefe390931b9905863dbbace1c1d1ba8e5ad1e7237ee4e561180a1af6ffecb"
+        },
+        {
+          "file": "Schild_D_Jungdrache.webp",
+          "sha256": "e918c52bd4041508c37490894d8d7254c017a4b4a693532b8f2d6bffdda4cf13"
+        },
+        {
+          "file": "Schild_JK_Urdrache.webp",
+          "sha256": "d0f1a191c8c7f3b675df5a96a5b69111d74d918526f7bfd79419444aab205d74"
+        },
+        {
+          "file": "Schild_K_Ausgewachsener_Drache.webp",
+          "sha256": "f5505d4461331de89dcdf8add4bc611a075424fdc1c7d9bd8b4fd3c658ac557e"
+        },
+        {
+          "file": "Schwert_02.webp",
+          "sha256": "4dfd83eda3fe98f42745ce64c1cd50431b406d1f4fa272f52e72c6d7727605d3"
+        },
+        {
+          "file": "Schwert_03.webp",
+          "sha256": "fbf222057b8a5d3c5aac513abe854dbe8d63f77e0df5e6d5a63b7f8a3f848afb"
+        },
+        {
+          "file": "Schwert_04.webp",
+          "sha256": "c2d12a8271032c588aaf9913fa7d9f3d50240ed9fea7da21cd1c017d15fae4a5"
+        },
+        {
+          "file": "Schwert_05.webp",
+          "sha256": "d4e84ff626c5f678f6daad52cb2767127624e9a8dd20f603020f36b3abdecdab"
+        },
+        {
+          "file": "Schwert_06.webp",
+          "sha256": "e833daaa1e7d5c1fe009db3e201ed428c73b12568d29ead9481e613119942700"
+        },
+        {
+          "file": "Schwert_07.webp",
+          "sha256": "41306cc80fd8fe29cb814941cfc86bbad4c267d41334e50f747ff9cbb2c500c4"
+        },
+        {
+          "file": "Schwert_08.webp",
+          "sha256": "6f9356da1d6eb4f6ce859a39f35a31e4d711dbf61fd222a50477e4a02a8b98bb"
+        },
+        {
+          "file": "Schwert_09.webp",
+          "sha256": "0a0cb6954c4732aa1943f99ad45298b427d91cb3985e384e05aff521e73e1771"
+        },
+        {
+          "file": "Schwert_10.webp",
+          "sha256": "f6421860dc8886a595810b07fa84c392f3c8dbcb2bec8d527b775a08b222e07a"
+        },
+        {
+          "file": "Schwert_A_Uraltdrache.webp",
+          "sha256": "df9694134e9b970ead21afcf506df613f99c00021c4ab8374b8e9f9b64518354"
+        },
+        {
+          "file": "Schwert_B_Drachennestling.webp",
+          "sha256": "bd60ad1eb4c4d8ec1458ed669fe9ccabd856ca49b553a0c3bf57933dbcd6a577"
+        },
+        {
+          "file": "Schwert_D_Jungdrache.webp",
+          "sha256": "0d6526748706c9ff362e793326db6d97d7fd5fe35a8cb824b7c4b3df7809e0d1"
+        },
+        {
+          "file": "Schwert_JK_Urdrache.webp",
+          "sha256": "7eef34c51cba2bb59702097f08e726849a172b3d3e89e228adebff69cd179509"
+        },
+        {
+          "file": "Schwert_K_Ausgewachsener_Drache.webp",
+          "sha256": "9b77af820031c2130472ceb9ab2a7df5a1ada3a3b55816d90ed2ed7fb07a3e22"
+        }
+      ]
+    }
+  ]
+}
