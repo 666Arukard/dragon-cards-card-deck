@@ -30,7 +30,7 @@ export function webpSize(file) {
 export function validate() {
  const manifest=read('module.json'),catalog=read('data/catalog.json'),inventory=read('data/source-inventory.json');
  const id=manifest.id;
- assert.equal(id,'dragon-cards-card-deck');assert.equal(manifest.compatibility.minimum,'14');assert.equal(manifest.compatibility.verified,'14.369');
+ assert.equal(id,'dragon-cards-card-deck');assert.equal(manifest.compatibility.minimum,'14');assert.equal(manifest.compatibility.verified,'14.369');assert(!('maximum' in manifest.compatibility));
  assert(!manifest.relationships?.requires?.length);assert.equal(manifest.packs.length,1);assert.equal(manifest.packs[0].type,'Cards');
  assert(fs.existsSync(path.join(root,manifest.packs[0].path,'CURRENT')));
  assert.equal(catalog.cards.length,59);assert.equal(catalog.variants.length,3);

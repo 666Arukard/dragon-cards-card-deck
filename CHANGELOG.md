@@ -1,5 +1,11 @@
 # Versionshinweise
 
+## 1.0.2 — 22. Oktober 2026
+
+- Maximale Foundry-Version aus dem Manifest entfernt, damit spätere Foundry-Versionen nicht durch eine feste Obergrenze ausgeschlossen werden.
+- Mindestversion 14 und Verifizierung für 14.369 bleiben bestehen; neuere Versionen sind damit nicht als getestet ausgewiesen.
+- Karten, Grafiken und Funktionen unverändert.
+
 ## 1.0.1 — 22. Oktober 2026
 
 - Fehlenden Manifest-Eintrag `compatibility.verified: "14.369"` ergänzt.
