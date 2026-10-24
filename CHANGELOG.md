@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## 1.0.3 — 24. Oktober 2026
+
+- Paketbeschreibung durch den freigegebenen englischen und deutschen Text ersetzt, Englisch zuerst.
+- Karten, Grafiken, Funktionen und Foundry-Kompatibilitätsangaben unverändert.
+
 ## 1.0.2 — 22. Oktober 2026
 
 - Maximale Foundry-Version aus dem Manifest entfernt, damit spätere Foundry-Versionen nicht durch eine feste Obergrenze ausgeschlossen werden.

@@ -1,6 +1,6 @@
 # Dragon Cards - Card Deck
 
-Version 1.0.2 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung) · Zielplattform: Foundry VTT V14.
+Version 1.0.3 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung) · Zielplattform: Foundry VTT V14.
 
 Eigenständiges, optionales Inhaltsmodul für das Dracima-Drachenkartenset.
 Ein natives Kartenkompendium enthält drei Decks: realistische Fantasy,

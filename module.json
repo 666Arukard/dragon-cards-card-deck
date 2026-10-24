@@ -1,8 +1,8 @@
 {
   "id": "dragon-cards-card-deck",
   "title": "Dragon Cards - Card Deck",
-  "description": "Eigenständiges Dracima-Drachenkartenset mit drei nativen Decks zu je 59 Karten. Keine Spielregeln. Import, Kartenanzahl und Ziehen auf Foundry V14 Build 369 vom Nutzer bestätigt; gesonderter Spielerhand-Test noch offen.",
-  "version": "1.0.2",
+  "description": "<p lang=\"en\">AI-generated dragon card set in three distinct art styles, with 59 cards each. Each suit includes ranks from 2 through Ace and its own Joker, plus three additional suit-independent Jokers per deck. After activating the module, simply drag your preferred deck from the compendium into the Cards directory—and you're ready to play!</p><p lang=\"de\">KI-generiertes Drachenkarten-Set in drei unterschiedlichen Bildstilen mit jeweils 59 Karten. Jede Kartenfarbe umfasst die Werte 2 bis Ass sowie einen eigenen Joker. Hinzu kommen drei farbunabhängige Joker. Nach der Aktivierung des Moduls einfach das gewünschte Deck aus dem Kompendium in die Kartenverwaltung ziehen – fertig!</p>",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Daniel Brune",
@@ -41,6 +41,6 @@
   "url": "https://github.com/666Arukard/dragon-cards-card-deck",
   "bugs": "https://github.com/666Arukard/dragon-cards-card-deck/issues",
   "manifest": "https://github.com/666Arukard/dragon-cards-card-deck/releases/latest/download/module.json",
-  "download": "https://github.com/666Arukard/dragon-cards-card-deck/releases/download/v1.0.2/dragon-cards-card-deck-1.0.2.zip",
-  "changelog": "https://github.com/666Arukard/dragon-cards-card-deck/releases/tag/v1.0.2"
+  "download": "https://github.com/666Arukard/dragon-cards-card-deck/releases/download/v1.0.3/dragon-cards-card-deck-1.0.3.zip",
+  "changelog": "https://github.com/666Arukard/dragon-cards-card-deck/releases/tag/v1.0.3"
 }
