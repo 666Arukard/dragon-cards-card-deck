@@ -2,10 +2,10 @@
 
 - Öffentliches Repository: https://github.com/666Arukard/dragon-cards-card-deck
 - Hauptzweig: `main`
-- Version: 1.0.3, Tag: `v1.0.3`
-- Release: https://github.com/666Arukard/dragon-cards-card-deck/releases/tag/v1.0.3
+- Version: 1.0.4, Tag: `v1.0.4`
+- Release: https://github.com/666Arukard/dragon-cards-card-deck/releases/tag/v1.0.4
 - Stabiles Foundry-Manifest: https://github.com/666Arukard/dragon-cards-card-deck/releases/latest/download/module.json
-- Installierbares Paket: https://github.com/666Arukard/dragon-cards-card-deck/releases/download/v1.0.3/dragon-cards-card-deck-1.0.3.zip
+- Installierbares Paket: https://github.com/666Arukard/dragon-cards-card-deck/releases/download/v1.0.4/dragon-cards-card-deck-1.0.4.zip
 
 ## Paket und Updates
 

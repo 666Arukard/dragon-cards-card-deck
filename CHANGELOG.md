@@ -1,5 +1,10 @@
 # Versionshinweise
 
+## 1.0.4 — 7. November 2026
+
+- Foundry 14.370 als aktuelles Ziel dokumentiert. Mindestversion 14, ohne Obergrenze.
+- Der bestätigte Praxistest gilt für 14.369. Ein Laufzeittest auf 14.370 steht aus.
+
 ## 1.0.3 — 24. Oktober 2026
 
 - Paketbeschreibung durch den freigegebenen englischen und deutschen Text ersetzt, Englisch zuerst.
