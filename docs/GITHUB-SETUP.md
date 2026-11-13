@@ -2,10 +2,10 @@
 
 - Öffentliches Repository: https://github.com/666Arukard/dragon-cards-card-deck
 - Hauptzweig: `main`
-- Version: 1.0.4, Tag: `v1.0.4`
-- Release: https://github.com/666Arukard/dragon-cards-card-deck/releases/tag/v1.0.4
+- Version: 1.0.5, Tag: `v1.0.5`
+- Release: https://github.com/666Arukard/dragon-cards-card-deck/releases/tag/v1.0.5
 - Stabiles Foundry-Manifest: https://github.com/666Arukard/dragon-cards-card-deck/releases/latest/download/module.json
-- Installierbares Paket: https://github.com/666Arukard/dragon-cards-card-deck/releases/download/v1.0.4/dragon-cards-card-deck-1.0.4.zip
+- Installierbares Paket: https://github.com/666Arukard/dragon-cards-card-deck/releases/download/v1.0.5/dragon-cards-card-deck-1.0.5.zip
 
 ## Paket und Updates
 
@@ -35,4 +35,4 @@ auf Foundry 14.369 den Import aller drei Decks mit je 59 Karten und das Ziehen.
 Weitere Aktionen wurden nicht einzeln protokolliert. Der separate Test mit
 Spieler-Clients steht aus. Kein eigener Live-Test durch ChatGPT/Codex und keine
 vollständige Abnahme aller Berechtigungsszenarien. Der Manifest-Eintrag
-`compatibility.verified = "14.369"` beruht auf Daniels bestätigtem Praxistest.
+`compatibility.verified = "14.370"` beruht auf Daniels aktueller Testbestätigung.

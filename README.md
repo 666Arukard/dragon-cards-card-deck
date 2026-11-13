@@ -1,6 +1,6 @@
 # Dragon Cards - Card Deck
 
-Version 1.0.4 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung) · Zielplattform: Foundry VTT V14.
+Version 1.0.5 · Daniel Brune und ChatGPT/Codex (KI-Unterstützung) · Zielplattform: Foundry VTT V14.
 
 Eigenständiges, optionales Inhaltsmodul für das Dracima-Drachenkartenset.
 Ein natives Kartenkompendium enthält drei Decks: realistische Fantasy,
@@ -81,13 +81,12 @@ Die API liest ausschließlich Daten. Details: [METADATA.md](docs/METADATA.md).
 ## Kompatibilität und Prüfstand
 
 Aktuelles Ziel: Foundry 14.370. Mindestversion: 14, ohne Obergrenze.
-Der bestätigte Praxistest gilt für 14.369. Ein Laufzeittest auf 14.370 steht aus.
 
-Im Manifest ist Foundry **14.369** als `compatibility.verified` eingetragen.
+
+Im Manifest ist Foundry **14.370** als `compatibility.verified` eingetragen.
 Eine maximale Foundry-Version ist nicht festgelegt. Neuere Versionen bleiben
 installierbar; die Verifizierungsangabe wird erst nach einem Praxistest erweitert.
-Grundlage ist Daniel Brunes bestätigter Praxistest: Import aller drei Decks,
-jeweils 59 Karten und erfolgreiches Ziehen. Kein eigener Live-Test durch
+Grundlage sind Daniel Brunes bestätigte Kompatibilitätstests auf 14.370. Kein eigener Live-Test durch
 ChatGPT/Codex. Die gesonderte Spielerhand- und Berechtigungsprüfung bleibt offen.
 Referenz der Implementierung: offizielle V14-API, Dokumentationsstand 14.368.
 

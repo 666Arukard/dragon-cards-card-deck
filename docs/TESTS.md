@@ -9,7 +9,7 @@ Einzelprotokoll als funktionierend gemeldet. Siehe [Nutzerbericht](user-test-evi
 
 ChatGPT/Codex hat keinen eigenen Foundry-Live-Test ausgeführt. Mischen, Austeilen,
 Zurücksetzen und Spielerhand-Berechtigungen sind nicht einzeln abgenommen.
-`compatibility.verified = "14.369"` beruht auf dem bestätigten Nutzer-Praxistest
+`compatibility.verified = "14.370"` beruht auf der aktuellen Testbestätigung des Nutzers
 für dieses Inhaltsmodul. Der Eintrag behauptet keine vollständige Abnahme aller
 Spielerhand- und Berechtigungsszenarien.
 

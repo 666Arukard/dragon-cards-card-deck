@@ -1,8 +1,8 @@
 {
-  "checkedOn": "2026-10-22",
-  "targetFoundry": "14",
+  "checkedOn": "2026-11-13",
+  "targetFoundry": "14.370",
   "referenceApi": "14.368",
-  "verifiedFoundry": "14.369",
+  "verifiedFoundry": "14.370",
   "verificationBasis": "Daniel Brune user test; see docs/user-test-evidence.json",
   "variantCount": 3,
   "cardsPerVariant": 59,

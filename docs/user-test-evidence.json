@@ -10,6 +10,18 @@
     "draw": true
   },
   "reportedWithoutIndividualProtocol": "Ziehen und weitere Kartenaktionen funktionierten.",
-  "notSeparatelyConfirmed": ["shuffle", "deal", "recall", "player-client permissions"],
-  "fullVerificationClaim": false
+  "notSeparatelyConfirmed": [
+    "shuffle",
+    "deal",
+    "recall",
+    "player-client permissions"
+  ],
+  "fullVerificationClaim": false,
+  "latestUserTest": {
+    "foundryVersion": "14.370",
+    "reportedOn": "2026-11-13",
+    "reportedBy": "Daniel Brune",
+    "compatibilityConfirmed": true,
+    "individualStepsReported": false
+  }
 }
